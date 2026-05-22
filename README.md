@@ -62,14 +62,15 @@ public:
 <div align="center">
 
 <a href="https://cses.fi/user/375537">
-  <img src="https://img.shields.io/badge/CSES-Problem%20Solver-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSES-Profile-7E57C2?style=for-the-badge&logo=codesignal&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-* 🔗 CSES Profile: [https://cses.fi/user/375537](https://cses.fi/user/375537)
-* 🔗 Codeforces: [https://codeforces.com/profile/mad_scientist](https://codeforces.com/profile/mad_scientist)
-* 🔗 LeetCode: [https://leetcode.com/u/mad__scientist/](https://leetcode.com/u/mad__scientist/)
+<img src="https://img.shields.io/badge/Problems%20Solved-70-blueviolet?style=flat-square" />
+
+
+</div>
 
 
 # 📬 Connect With Me
