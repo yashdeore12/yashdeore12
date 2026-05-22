@@ -3,7 +3,7 @@
 <h3 align="center">Competitive Programmer • Open Source Explorer • Math Enjoyer</h3>
 
 <div align="center">
-  <img src="PASTE_YOUR_SENJOGAHARA_IMAGE_OR_GIF_HERE" width="500"/>
+  <img src="https://github.com/yashdeore12/yashdeore12/blob/main/photo.jpeg" width="300"/>
 </div>
 
 
