@@ -33,7 +33,7 @@ public:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,go,html,css,javascript,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,go,html,css,javascript,git,linux" />
 
 </div>
 
