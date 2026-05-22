@@ -1,32 +1,32 @@
-
 <h1 align="center">Hey 👋 I'm Yash Deore</h1>
-<h3 align="center">Competitive Programmer • Open Source Explorer • Math Enjoyer</h3>
+
+<h3 align="center">
+Competitive Programmer • Open Source Explorer • Math Enjoyer
+</h3>
 
 <div align="center">
-  <img src="https://github.com/yashdeore12/yashdeore12/blob/main/photo.jpeg" width="300"/>
+  <img src="https://github.com/yashdeore12/yashdeore12/blob/main/github_img.jpeg" width="300"/>
 </div>
-
 
 ---
 
 # 🌸 About Me
 
-
+```cpp
 class Yash {
 public:
     string role = "Competitive Programmer";
-    string currently_learning = "Advanced CP + Open Source";
-    string languages[6] = {"C++", "Go", "Java", "C", "HTML", "CSS"};
-    string hobbies[4] = {"Anime", "Maths", "Problem Solving", "Linux"};
+    string currently_learning = "deque + dp";
+
+    string languages[6] = {
+        "C++", "Go", "Java", "C", "HTML", "CSS"
+    };
+
+    string hobbies[4] = {
+        "Anime", "Math", "cp", "Linux" 
+    };
 };
-
-
-* 🧠 Solving problems one binary search at a time
-* 🐧 Ubuntu/Linux user
-* ⚡ Learning deeply instead of rushing through topics
-* 🌸 Monogatari fan
-* 📚 Exploring open source and system-level concepts
-
+```
 ---
 
 # 🛠️ Tech Stack
@@ -72,33 +72,6 @@ public:
 * 🔗 LeetCode: [https://leetcode.com/u/mad__scientist/](https://leetcode.com/u/mad__scientist/)
 
 
-
-# 🌌 Current Focus
-
-
-• Competitive Programming
-• Sliding Window & Deque
-• Open Source Contributions
-• Advanced Data Structures
-• Building Real Projects Soon™
-
-
-
-
-# 🌸 Anime Corner
-
-<div align="center">
-
-<img src="PASTE_ANOTHER_SENJOGAHARA_GIF_HERE" width="450" />
-
-</div>
-
-> “I don’t know everything. I just know what I know.”
->
-> — Hitagi Senjougahara
-
----
-
 # 📬 Connect With Me
 
 <div align="center">
@@ -113,6 +86,10 @@ public:
 
 <a href="https://leetcode.com/u/mad__scientist/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.linkedin.com/in/yash-deore-b1b68b2ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
