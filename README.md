@@ -1,4 +1,3 @@
-<h1 align="center">Hey 👋 I'm Yash Deore</h1>
 
 <h3 align="center">
 Competitive Programmer • Open Source Explorer • Math Enjoyer
