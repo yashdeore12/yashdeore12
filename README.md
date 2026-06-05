@@ -15,7 +15,7 @@ Competitive Programmer • Open Source Explorer • Math Enjoyer
 class Yash {
 public:
     string role = "Competitive Programmer";
-    string currently_learning = "deque + dp";
+    string currently_learning = "spring";
 
     string languages[6] = {
         "C++", "Go", "Java", "C", "HTML", "CSS"
